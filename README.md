@@ -19,8 +19,11 @@ allocation.
 Functions:
 
 MAX_LENGTH is defined as 1024
+
 MAX_USERS is defined as 100
+
 FLAGS_LENGTH is defined as 5
+
 GB_CONVERTER is defined as1024 * 1024 * 1024
 
 get_system_usage(int samples, int tdelay):
